@@ -20,7 +20,7 @@ sass:
   sass_dir: css
   style:    expanded
 
-permalink: /:title/index.html
+permalink: /:title/
 
 exclude:
 - README.md
