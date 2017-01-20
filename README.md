@@ -1,5 +1,5 @@
-## grepcharm.github.io
+## WebSlides
 
-[GrepCharm](https://grepcharm.github.io/)
+[WebSlides](https://grepcharm.github.io/WebSlides/)
 
-![GrepCharm](https://grepcharm.github.io/assets/images/davinci.png)
+![WebSlides](https://grepcharm.github.io/assets/images/davinci.png)
